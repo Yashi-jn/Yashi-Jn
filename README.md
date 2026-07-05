@@ -1,4 +1,4 @@
-# Hi, I'm Yashi Jn 👋
+Yashi  
 
 B.Tech student in AI & ML, building machine learning models and practical web tools.
 
