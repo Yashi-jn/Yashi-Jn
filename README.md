@@ -1,4 +1,5 @@
-# Yashi Jain                                                          [Portfolio](https://portfolio-vert-two-okqvwjg3rf.vercel.app/)
+# Yashi Jain        
+[Portfolio](https://portfolio-vert-two-okqvwjg3rf.vercel.app/)
 
 B.Tech student in AI & ML, building machine learning models and practical web tools.
 
